@@ -10,19 +10,6 @@ A GPU-accelerated matrix multiplication project using OpenCL and C++, built to e
 - Tests a range of `BLOCK_SIZE` values: `1, 2, 4, 8, 10, 20`
 - Helps visualize how block size affects GPU performance
 
-## 📸 Sample Output
-
-OpenCL Matrix Multiplication Profiling
-Matrix size: 40x40
-
-BLOCK_SIZE,Kernel_Time_ms
-1,1.234
-2,0.845
-4,0.562
-8,0.490
-10,0.500
-20,0.800
-
 ## 🛠️ Build & Run
 
 ### Requirements
